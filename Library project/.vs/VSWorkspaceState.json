@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Biblio.API",
+    "\\Biblio.Data",
+    "\\Biblio.Data\\Context",
+    "\\Biblio.Data\\Repositories",
+    "\\Biblio.Domain",
+    "\\Biblio.Domain\\Entities",
+    "\\Biblio.Service",
+    "\\Biblio.Service\\Services"
+  ],
+  "SelectedNode": "\\Biblio.Data\\Context\\BiblioContext.cs",
+  "PreviewInSolutionExplorer": false
+}
